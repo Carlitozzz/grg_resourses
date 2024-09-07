@@ -1,0 +1,339 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GRG Service</title>
+<style type="text/css">
+	body {
+		margin: 0;
+		background-color: #cccccc;
+	}
+	table {
+		border-spacing: 0;
+	}
+	td {
+		padding: 0;
+	}
+	img {
+		border: 0;
+	}
+	.wrapper {
+		width:100%;
+		table-layout:fixed;
+		background-color:white;
+		padding:60px;
+	}
+	.main {
+		background-color:#ffffff;
+		margin:0 auto;
+		width:100%;
+		border-spacing: 0;
+		font-family: Arial, "Helvetica Neue", Helvetica, sans -serif;
+		color:black;
+	}
+	.two-columns {
+		text-align:center;
+		font-size:0px;
+	}
+	.two-columns .column  {
+		width:100%;
+		max-width:300px;
+		display:inline-block;
+		vertical-align:top;
+		text-align:center;
+	}
+	
+	.three-column {
+		text-align:center;
+		font-size:0px;
+	}
+	.three-column .column {
+		text-align:center;
+		font size:0px;
+		padding:15px 0 25px;
+	}
+	.three-columns .column {
+		width:100%;
+		max-width:200px;
+		display:inline-block;
+		vertical-align:top;
+		text-align:center;
+	}
+	.three-columns .padding {
+		padding:25px;
+	}
+	.three-columns .content  {
+		font-size:15px;
+		line-height:20px;
+		padding:0 5px;
+	}
+	.two-columns.last  {
+		padding:15px 0;
+	}
+	.two-columns .padding  {
+		padding:20px;
+	}
+	.two-columns .content  {
+		font-size:15px;
+		line-height:20px;
+		text-align:left;
+	}
+
+</style>
+</head>
+
+<body>
+
+	<center class="wrapper">
+
+		<table class="main" width="100%"></table>
+
+<!-- TOP BORDER -->
+	<tr>
+		<td height="8px" style="color-background:grey;"></td>
+	</tr>
+
+
+<!-- LOGO SECTION -->
+	<tr>
+		<td style="padding:14px 0px 8px;">
+			<table width="100%">
+					<tr>
+						<td class="two-columns">
+
+							<table class="column">
+								<tr>
+									<td style="padding:0px 90px 10px;">
+										<a href="https:www.grgservice.com"><img src="img\logo.png" alt="GRG Service"></a>
+									</td>
+								</tr>
+							</table>
+
+							<table class="column">
+
+								<tr>
+									<td style="padding:5px;">
+										<a href="www.facebook.com"><img src="img\fb.png" alt=""></a>
+										<a href=""><img src="img\in.png" alt=""></a>
+										<a href=""><img src="img\sk.png" alt=""></a>
+										<a href=""><img src="img\yt.png" alt=""></a>
+									</td>
+								</tr>
+							</table>
+
+
+						</td>
+					</tr>
+			</table>
+		</td>
+	</tr>
+
+<!-- BANNER IMAGE -->
+
+	<tr>
+		<td>
+
+			<a width="600px" style="max-width:100px;"><img src="img\banner.jpg" alt="Bussiness Banner"></a>
+
+		</td>
+	</tr>
+
+<!-- THREE COLUMN SECTION -->
+
+	<tr>
+		<td>
+			<table width="100%">
+
+				<tr>
+					<td class="three-columns">
+
+						<table class="column">
+
+
+						<tr>
+							<td class="padding">
+								<table class="content">
+									<tr>
+										<td>
+
+											<a><img src="" alt="" width="130px"
+											style="max-width:130;" ></a>
+
+										<td>
+									</tr>
+									<tr>
+										<td>
+											<p style="font-weight:bold; font-size:17px;">Sample Text</p>
+											<p>Lorem ipsum si fuit al abadala cernada sit emprendida consiluganona per mit hira no mica meno
+											</p>
+										</td>
+									</tr>
+								</table>
+
+						</table>
+
+						<table class="column">
+
+
+						<tr>
+							<td class="padding">
+								<table class="content">
+									<tr>
+										<td>
+
+											<a><img src="" alt="" width="130px" style="max-width:130;" ></a>
+
+										<td>
+									</tr>
+									<tr>
+										<td>
+											<p style="font-weight:bold; font-size:17px;">Sample Text</p>
+											<p>Lorem ipsum si fuit al abadala cernada sit emprendida consiluganona per mit hira no mica meno
+											</p>
+										</td>
+									</tr>
+								</table>
+
+						</table>
+
+						<table class="column">
+
+
+						<tr>
+							<td class="padding">
+								<table class="content">
+									<tr>
+										<td>
+
+											<a><img src="" alt="" width="130px"
+											style="max-width:130;" ></a>
+
+										<td>
+									</tr>
+									<tr>
+										<td>
+											<p style="font-weight:bold; font-size:17px;">Sample Text</p>
+											<p>Lorem ipsum si fuit al abadala cernada sit emprendida consiluganona per mit hira no mica meno
+											</p>
+										</td>
+									</tr>
+								</table>
+
+						</table>
+
+
+
+					</td>
+				</tr>
+
+
+			</table>
+		</td>
+	</tr>
+
+
+<!-- TWO COLUMN SECTION -->
+
+	<tr>
+		<td style="background-color:;">
+			<table width="100%">
+
+				<tr>
+					<td class="two-columns last">
+
+						<table class="column">
+
+							<tr>
+								<td class="padding">
+
+									<table class="content">
+
+										<tr>
+											<td>
+												<a><img src="img\classroom.jpeg" alt="" width="260" style="max-width:260px;"></a>
+
+
+											</td>
+
+										</tr>
+									</table>
+								</td>
+							</tr>
+
+						</table>
+
+						<table class="column">
+
+							<tr>
+								<td class="padding">
+
+									<table class="content">
+
+										<tr>
+											<td>
+												<p style="font-weight:bold;font-size:18px;" >
+												Sample title
+												</p>
+												<p>
+												This is intentionally made to fill a space which may be a simple paragraph text
+												</p>
+												<a href="" class="button" style=" ">Read more
+												</a>
+											</td>
+
+										</tr>
+									</table>
+								</td>
+							</tr>
+
+						</table>
+
+					</td>
+				</tr>
+
+			</table>
+		</td>
+	</tr>
+
+<!-- TITLE, TEXT & BUTTON -->
+
+	<tr>
+		<td style="padding:15px 0 15px;">
+			<table width="100%">
+				<tr>
+					<td style="text-align:center; padding:15px;">
+						<p style="font-size:20px; font-weight:bold;">Larger Title Sample Text</p>
+						<p style="line-hegiht: 23px; font-size: 15px; padding:5px 0 15px;">Lorem ipsum</p>
+					<td>
+				<tr>
+				</table>
+		</td>
+	</tr>
+
+<!-- FOOTER SECTION -->
+	<tr>
+		<td style="background-color">
+			<table width="100%">
+
+				<tr>
+					<td style="text-align:center; padding:45px 20px color:white;">
+
+						<a href="#" <img src="" alt="" width="180px"></a>
+
+						<p style="padding:10px;">Sample Text</p>
+						<p style="padding:10px;">123 Street Road, City, State 55555</p>
+						<a href="https:www.grgservice.com"><img href="" alt=""></a>
+					</td>
+				</tr>
+
+			</table>
+		</td>
+	</tr>
+
+		</center>
+	</table>
+
+</body>
+</html>
